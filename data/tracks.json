@@ -1,17 +1,22 @@
 [
   {
-    "id": "track-001",
-    "title": "My Track",
-    "artist": "Veylune",
+    "id": "VYL-0001",
+    "title": "Neon Dreams",
+    "mood": ["Cinematic", "Ambient"],
+    "bpm": 92,
+    "key": "Am",
+    "length": "0:45",
+    "preview": "assets/audio/neon-dreams.mp3",
+    "notes": "Warm pulse, late-night skyline, minimal drums."
+  },
+  {
+    "id": "VYL-0002",
+    "title": "Cosmic Echoes",
+    "mood": ["Sci-Fi", "Tension"],
     "bpm": 120,
-    "duration": 180,
-    "mood": ["cinematic"],
-    "genre": ["electronic"],
-    "tags": ["night"],
-    "description": "Short description here.",
-    "exclusive": false,
-    "catalogNumber": "VYL001",
-    "iswc": "",
-    "audio": "./audio/my-track.mp3"
+    "key": "Dm",
+    "length": "0:60",
+    "preview": "assets/audio/cosmic-echoes.mp3",
+    "notes": "Risers + impacts, trailer-ready."
   }
 ]
