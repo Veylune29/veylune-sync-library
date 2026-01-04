@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vyl-001",
+    "title": "Midnight Drive",
+    "artist": "Veylune",
+    "bpm": 120,
+    "key": "Am",
+    "duration": 180,
+    "mood": ["cinematic", "driving"],
+    "genre": ["electronic"],
+    "audio": "/audio/midnight-drive.mp3",
+    "exclusive": true
+  },
+  {
+    "id": "vyl-002",
+    "title": "Silent Echoes",
+    "artist": "Veylune",
+    "bpm": 70,
+    "key": "Dm",
+    "duration": 240,
+    "mood": ["ambient", "atmospheric"],
+    "genre": ["ambient"],
+    "audio": "/audio/silent-echoes.mp3",
+    "exclusive": false
+  }
+]
